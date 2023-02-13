@@ -5,7 +5,7 @@ body {
   color: white;
   margin: 0;
   padding: 0;
-  background: url(/gym-imgg.jpg);
+  background: url(gym-imgg.jpg);
 }
 .left {
   display: inline-block;
